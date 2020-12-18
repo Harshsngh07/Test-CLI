@@ -8,7 +8,7 @@ const chalk = require("chalk");
 const init = () => {
   console.log(
     chalk.green(
-      figlet.textSync("Node f***king js", {
+      figlet.textSync("Node is Great", {
         font: "Ghost",
         horizontalLayout: "default",
         verticalLayout: "default",
